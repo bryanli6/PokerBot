@@ -1,0 +1,2 @@
+eval7
+# poker_agent_sdk is provided by the No Limit tournament starter kit (not included here)
