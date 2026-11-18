@@ -2,8 +2,6 @@
 
 A tournament poker agent built for the **Bay Area Regional of No Limit**, a nationwide pokerbot tournament hosted by Sequoia Capital, Citadel Securities and OpenAI (November 2026). Built in Python with Claude as an AI coding assistant.
 
-**Result:** _[add your placement, e.g. "placed X of Y teams"]_
-
 ## The variant
 
 A new form of no-limit hold'em:
